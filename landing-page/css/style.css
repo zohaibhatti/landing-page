@@ -50,7 +50,7 @@ body.offcanvas-open {
 }
 
 .banner {
-  background: linear-gradient(#00000094), url(/images/hero-bg.jpg) center/cover;
+  background: linear-gradient(#00000094), url(../images/hero-bg.jpg) center/cover;
   background-attachment: fixed;
   width: 100%;
 }
@@ -1126,4 +1126,5 @@ footer {
 html,
 body {
   overflow-x: hidden;
+
 }
